@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactForm", "ArgeyaContactForm\ContactForm.csproj", "{97F38BDE-4781-40E9-9CA9-D1120BC9A1CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97F38BDE-4781-40E9-9CA9-D1120BC9A1CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97F38BDE-4781-40E9-9CA9-D1120BC9A1CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97F38BDE-4781-40E9-9CA9-D1120BC9A1CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97F38BDE-4781-40E9-9CA9-D1120BC9A1CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {037963BB-7A5C-447C-904B-5E220EE6F5D3}
+	EndGlobalSection
+EndGlobal
